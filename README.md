@@ -1,21 +1,124 @@
-# 💫 About Me:
-Hi, I’m Radhey Shyam, a Frontend and Web Developer with 9+ years of experience in building scalable web and hybrid mobile applications.<br><br>I currently work at HCL Technologies, where I’m developing applications using Angular 20 with Nx and Tailwind CSS. Alongside this, I’m actively learning and exploring Microsoft Azure Cloud Development to strengthen my cloud skills.<br><br>Over the years, I’ve worked with a wide range of technologies including Angular (2+), React.js, Node.js, MongoDB, PHP (Laravel, CodeIgniter, Magento 1.9), and Ionic with Cordova. I have strong experience in creating responsive, user-friendly UIs using Angular Material, Kendo UI, HTML, CSS, JavaScript, jQuery, and AJAX.<br><br>I enjoy writing clean code, building reusable components, and continuously learning new technologies to stay up to date.
+# 💫 About Me
 
+Senior Software Engineer with **9+ years of experience** in building **enterprise-grade web and hybrid mobile applications** across **Finance, E-commerce, Insurance, and Recruitment domains**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radheysv1809) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Radhey Shyam Verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RADHEYSV78@GMAIL.COM) 
+Currently working at **HCL Technologies** as a **Senior Software Engineer**, contributing to large-scale Angular applications using **Angular 18/20, Nx Monorepo, Tailwind CSS, and RxJS**. I am also actively learning **Microsoft Azure Cloud Development** to strengthen my cloud-native and DevOps skills.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=radhey1007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=radhey1007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radhey1007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I specialize in **frontend architecture, UI performance optimization, reusable component design**, and **modern JavaScript frameworks**. I have hands-on experience working as an **individual contributor** on high-traffic production applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=radhey1007&icon=2&color=0)](https://visitcount.itsvg.in)
 
+## 🧑‍💻 Current Role
 
+- **Senior Software Engineer** — HCL Technologies  
+- Enterprise Finance Domain Applications  
+- Angular **18 / 20**, **Nx**, **Tailwind CSS**, **RxJS**  
+- Focus on scalable UI architecture and clean code  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠️ Core Technical Skills
+
+### Frontend
+- Angular (2+ → 20), React.js  
+- HTML5, CSS3, SCSS, Tailwind CSS  
+- JavaScript, TypeScript, RxJS  
+- Angular Material, Kendo UI  
+
+### Backend & APIs
+- Node.js, PHP (Laravel, CodeIgniter)  
+- REST APIs, GraphQL  
+- MongoDB, MySQL  
+
+### Mobile
+- Ionic (1, 3, 4) with Cordova  
+
+### Architecture & Tools
+- Nx Monorepo, Git, Bitbucket, SVN  
+- Jira, ESLint, Jest, Jasmine  
+- CI/CD basics, Netlify, Firebase  
+- Microsoft Azure (Learning & Hands-on)  
+
+---
+
+## 🚀 Key Projects (Professional Experience)
+
+### 🏦 Franklin Templeton – Global Finance Platform
+**Role:** Senior Software Engineer  
+**Tech:** Angular 18/14/13, Nx, Tailwind CSS, RxJS, Kendo UI  
+
+- Migrated and upgraded Angular applications to the latest versions  
+- Built reusable UI components and dashboards  
+- Worked on public websites and internal admin panels  
+
+🔗 https://www.franklintempleton.com  
+🔗 https://www.franklintempletonindia.com  
+
+---
+
+### 🧑‍💼 HAYS – Recruitment Platforms (Germany / US)
+**Role:** Frontend Developer  
+**Tech:** React.js, Material UI, HTML, SCSS  
+
+- Developed recruitment portals and internal dashboards  
+- Improved UI performance and component reusability  
+
+🔗 https://www.hays-expert4experts.de/de/start  
+
+---
+
+### 📱 Facility Management Mobile Applications
+**Apps:** FmPilot, FsElite  
+**Tech:** Angular 5, Ionic 3  
+
+- Developed hybrid mobile apps for service request management  
+- Published applications on Google Play Store  
+
+🔗 https://play.google.com/store/apps/details?id=com.ionicframework.mofam810753  
+🔗 https://play.google.com/store/apps/details?id=com.ionicframework.snowapp184742  
+
+---
+
+### ☕ E-commerce & Content Platforms
+**Projects:** Caffebene, Wisedoc  
+**Tech:** Angular, Laravel, CodeIgniter, MySQL  
+
+- Built customer engagement and coupon management platforms  
+- Developed research paper formatting and publishing tools  
+
+🔗 http://www.caffebene.com.sa  
+🔗 http://www.wisedoc.net  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Radhey%20Shyam%20Verma)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhey3444@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=radhey1007&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=radhey1007&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=radhey1007&theme=dark&layout=compact)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=radhey1007&icon=2&color=0)
